@@ -1,6 +1,6 @@
 const utils = require('./utils');
 
-const apiBase = 'https://explorer.pkt.cash/api/v1/PKT/pkt/';
+const apiBase = 'https://explorer-api.pkt.ai/api/v1/PKT/pkt/';
 
 exports.getAddress = (addr) => {
     if (!addr) addr = DEFAULT_PAYMENT_ADDRESS;
