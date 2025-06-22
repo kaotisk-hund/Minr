@@ -1,7 +1,7 @@
 {
   "name": "minr",
   "productName": "minr",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A GUI for PacketCrypt by PKT Watch",
   "homepage": "https://pkt.watch/minr",
   "repository": {
